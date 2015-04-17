@@ -1,1 +1,5 @@
-<% echo('555'); %>
+<html>
+<body>
+<% echo('6SS555'); %>
+</body>
+</html>
